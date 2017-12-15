@@ -1,3 +1,6 @@
 # Ignore RubyMine IDE files
 .idea
 .idea/*
+
+.ruby-version
+.ruby-gemset
